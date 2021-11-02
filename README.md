@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadhinAfridi
+- 👋 Hi, I’m @Shadhin Afridi
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java Problem Solving
