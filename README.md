@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadhinAfridi
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Python Problem Solving
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java 
+- 💞️ I’m looking to collaborate on Java Problem Solving
 - 📫 How to reach me ...
 
 <!---
